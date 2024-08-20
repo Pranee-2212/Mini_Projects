@@ -1,4 +1,4 @@
-contacts=[["JASON",1234567890,"DIOKIENG@GMAIL.COM"],["TIM",2345678901,"fishypond@mail"],["CASSANDRA",3456789012,"cassass@gmail.com"]]
+contacts=[]
 phone_book=[]
 temp=[]
 temp_loc=0
