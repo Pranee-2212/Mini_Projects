@@ -2,7 +2,7 @@
 This is a collection of mini projects I built using python to  get better in python 
 --------------------------------------------------------------------------------------------------
 
-<h1>PROJECT 1:</h1>h1>
+<h3>PROJECT 1:</h3>
 ### Contact Book Application
 
 ---
