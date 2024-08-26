@@ -80,8 +80,7 @@ Deposit Money: Add money to your account.
 Withdraw Money: Take money out of your account.
 Check Balance: See how much money is in your account.
   
-- **User-Friendly**:
-  - Simple command-line interface for seamless interaction.
+*** project 2 is still work in progreesss***
  
 
 ---
