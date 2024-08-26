@@ -67,7 +67,19 @@ This is a collection of mini projects I built using python to  get better in pyt
 
 #### **Conclusion**
 - **Efficient Contact Management**:
-  - Easy to create, find, update, delete, and display contacts.
+
+
+<h3>project 2 </h3>
+   XYZ Bank Account Management System
+Overview
+The XYZ Bank Account Management System helps manage bank accounts easily. It allows users to create accounts, deposit money, withdraw money, and check their balance.
+
+Features
+Create Accounts: Users can create savings or business accounts.
+Deposit Money: Add money to your account.
+Withdraw Money: Take money out of your account.
+Check Balance: See how much money is in your account.
+  
 - **User-Friendly**:
   - Simple command-line interface for seamless interaction.
  
